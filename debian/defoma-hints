@@ -1,0 +1,90 @@
+category truetype
+
+begin /usr/share/fonts/truetype/ttf-paratype/PTSans-BoldItalic.ttf
+  Family = PT Sans
+  FontName = PTSans-BoldItalic
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Italic
+  Foundry = ParaType
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-paratype/PTSans-Bold.ttf
+  Family = PT Sans
+  FontName = PTSans-Bold
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright
+  Foundry = ParaType
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-paratype/PTSansCaption-Bold.ttf
+  Family = PT Sans Caption
+  FontName = PTSansCaption-Bold
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright Expanded
+  Foundry = ParaType
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-paratype/PTSansCaption.ttf
+  Family = PT Sans Caption
+  FontName = PTSansCaption-Regular
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright Expanded
+  Foundry = ParaType
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-paratype/PTSans-Italic.ttf
+  Family = PT Sans
+  FontName = PTSans-Italic
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Italic
+  Foundry = ParaType
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-paratype/PTSansNarrow-Bold.ttf
+  Family = PT Sans Narrow
+  FontName = PTSansNarrow-Bold
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Bold
+  Width = Variable
+  Shape = NoSerif Upright Condensed
+  Foundry = ParaType
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-paratype/PTSansNarrow.ttf
+  Family = PT Sans Narrow
+  FontName = PTSansNarrow-Regular
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright Condensed
+  Foundry = ParaType
+  Priority = 20
+end
+begin /usr/share/fonts/truetype/ttf-paratype/PTSans.ttf
+  Family = PT Sans
+  FontName = PTSans-Regular
+  Encoding = Unicode
+  GeneralFamily = SansSerif
+  Weight = Medium
+  Width = Variable
+  Shape = NoSerif Upright
+  Foundry = ParaType
+  Priority = 20
+end

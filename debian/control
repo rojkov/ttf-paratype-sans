@@ -1,0 +1,15 @@
+Source: ttf-paratype-sans
+Section: fonts
+Priority: optional
+Build-Depends: debhelper (>= 7.3)
+Build-Depends-Indep: defoma (>= 0.11.10)
+Maintainer: Dmitry Rozhkov <dmitry.rojkov@gmail.com>
+Standards-Version: 3.8.1
+
+Package: ttf-paratype-sans
+Architecture: all
+Depends: ${misc:Depends}
+Description: ParaType Sans font family
+ The fonts next to standard Latin and Cyrillic character sets contain signs of
+ title languages of the national republics of Russian Federation and support
+ the most of the languages of neighboring countries.
