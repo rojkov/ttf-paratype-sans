@@ -1,14 +1,14 @@
-This package was debianized by Dmitry Rozhkov <dmitry.rojkov@gmail.com>
-on Sun Feb 21 18:19:38 2010 +0200 and is maintained by the
-Debian Fonts Task Force.
+This package was initially prepared for Debian by Dmitry Rozhkov on
+2010-02-21 and is maintained by a collaborative maintainership project
+called the Debian Fonts Task Force.
 
 See the Alioth project for co-maintainership of open fonts:
 	http://alioth.debian.org/projects/pkg-fonts
 
 It was downloaded from
-	'http://www.fontstock.com/public/PTSans_OFL.zip'.
+	'http://www.fontstock.com/public/PTSans_OFL.zip'
 
-Upstream Author:
+Upstream Author
 	ParaType Ltd.
 
 Copyright:
@@ -26,8 +26,8 @@ Copyright:
 
 	The Debian packaging is
 
-	(C) 2010 Dmitry Rozhkov <dmitry.rojkov@gmail.com>
-	(C) 2010 Rogério Theodoro de Brito <rbrito@ime.usp.br>
+	Copyright © 2010 Dmitry Rozhkov <dmitry.rojkov@gmail.com>
+	Copyright © 2010 Rogério Theodoro de Brito <rbrito@ime.usp.br>
 
 	and is released under the same license as the Font Software.
 
