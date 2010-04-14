@@ -1,5 +1,9 @@
 ttf-paratype-sans (1.0-1) unstable; urgency=low
 
+  [ Dmitry Rozhkov ]
   * Initial packaging
   
- -- Dmitry Rozhkov <dmitry.rojkov@gmail.com>  Tue, 16 Feb 2010 23:06:30 +0200
+  [ Rogério Brito ]
+  * Updates to the package.
+
+ -- Rogério Brito <rbrito@ime.usp.br>  Sat, 10 Apr 2010 18:59:02 -0300
