@@ -3,6 +3,7 @@ Section: fonts
 Priority: optional
 Build-Depends: debhelper (>= 7.0.50~)
 Maintainer: Dmitry Rozhkov <dmitry.rojkov@gmail.com>
+Uploaders: Rogério Brito <rbrito@ime.usp.br>
 Standards-Version: 3.9.1
 Homepage: http://paratype.com/public
 
