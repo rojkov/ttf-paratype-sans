@@ -1,0 +1,30 @@
+Source: font-paratype-sans
+Section: fonts
+Priority: optional
+Build-Depends: debhelper (>= 7.0.50~)
+Maintainer: Dmitry Rozhkov <dmitry.rojkov@gmail.com>
+Standards-Version: 3.9.1
+Homepage: http://paratype.com/public
+
+Package: ttf-paratype-sans
+Architecture: all
+Depends: ${misc:Depends}
+Description: ParaType Sans font family
+ PT Sans is a type family of universal use. It consists of 8 styles:
+ regular and bold weights with corresponding italics form a standard
+ computer font family; two narrow styles (regular and bold) are intended
+ for documents that require tight set; two caption styles (regular and
+ bold) are for texts of small point sizes. The design combines
+ traditional conservative appearance with modern trends of humanistic
+ sans serif and characterized by enhanced legibility. These features
+ beside conventional use in business applications and printed stuff made
+ the fonts quite useable for direction and guide signs, schemes, screens
+ of information kiosks and other objects of urban visual communications.
+ .
+ The fonts next to standard Latin and Cyrillic character sets contain
+ signs of title languages of the national republics of Russian
+ Federation and support the most of the languages of neighboring
+ countries. The fonts were developed and released by ParaType in 2009
+ with financial support from Federal Agency of Print and Mass
+ Communications of Russian Federation. Design - Alexandra Korolkova with
+ assistance of Olga Umpeleva and supervision of Vladimir Yefimov.

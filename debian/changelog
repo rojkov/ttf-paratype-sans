@@ -1,0 +1,10 @@
+font-paratype-sans (0.0.201004021-1) unstable; urgency=low
+
+  [ Dmitry Rozhkov ]
+  * Initial packaging
+  
+  [ Rogério Brito ]
+  * Updates to the package.
+  * Rename the package to remove implementation details.
+
+ -- Rogério Brito <rbrito@ime.usp.br>  Sat, 10 Apr 2010 18:59:02 -0300
