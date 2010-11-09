@@ -2,9 +2,22 @@ font-paratype-sans (0.0.201004021-1) unstable; urgency=low
 
   [ Dmitry Rozhkov ]
   * Initial packaging
-  
-  [ Rogério Brito ]
-  * Updates to the package.
-  * Rename the package to remove implementation details.
+  * Remove defoma leftovers from debian/control
 
- -- Rogério Brito <rbrito@ime.usp.br>  Sat, 10 Apr 2010 18:59:02 -0300
+  [ Rogério Brito ]
+  * Highlights:
+    + Kill defoma from the package.
+    + Update the copyright information with the OFL version 1.1.
+    + Make the long description of the fonts what is embedded in the
+      fonts.
+    + Imported Upstream version 0.0.20100402
+    + Reorganize the repository for use with git-buildpackage
+    + Rename the source package to remove implementation details.
+    + Upgrade Standards-Version to 3.9.1 (without other changes)
+    + Add code for a get-orig-source target
+    + Remove unpacked upstream tarball to adopt the regular
+      git-buildpackage workflow
+    + Imported Upstream version 0.0.201004021
+    + Add me as uploader
+
+ -- Rogério Brito <rbrito@ime.usp.br>  Tue, 09 Nov 2010 01:54:46 -0200
