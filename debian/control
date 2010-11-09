@@ -1,7 +1,7 @@
 Source: font-paratype-sans
 Section: fonts
 Priority: optional
-Build-Depends: debhelper (>= 7.3)
+Build-Depends: debhelper (>= 7.0.50~)
 Maintainer: Dmitry Rozhkov <dmitry.rojkov@gmail.com>
 Standards-Version: 3.8.4
 Homepage: http://paratype.com/public
