@@ -1,4 +1,4 @@
-Source: ttf-paratype-sans
+Source: font-paratype-sans
 Section: fonts
 Priority: optional
 Build-Depends: debhelper (>= 7.3)
