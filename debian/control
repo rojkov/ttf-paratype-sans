@@ -3,7 +3,7 @@ Section: fonts
 Priority: optional
 Build-Depends: debhelper (>= 7.0.50~)
 Maintainer: Dmitry Rozhkov <dmitry.rojkov@gmail.com>
-Standards-Version: 3.8.4
+Standards-Version: 3.9.1
 Homepage: http://paratype.com/public
 
 Package: ttf-paratype-sans
