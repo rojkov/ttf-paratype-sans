@@ -1,4 +1,4 @@
-font-paratype-sans (0.0.201004021-1) unstable; urgency=low
+font-paratype-sans (0.0.201004021-1) experimental; urgency=low
 
   [ Dmitry Rozhkov ]
   * Initial packaging
@@ -19,5 +19,6 @@ font-paratype-sans (0.0.201004021-1) unstable; urgency=low
       git-buildpackage workflow
     + Imported Upstream version 0.0.201004021
     + Add me as uploader
+    + Target experimental, as we are in a freeze
 
  -- Rogério Brito <rbrito@ime.usp.br>  Tue, 09 Nov 2010 01:54:46 -0200
